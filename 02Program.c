@@ -1,3 +1,4 @@
+// WAP to explain data types and display their size.
 #include <stdio.h>
 int main()
 {
